@@ -1,0 +1,49 @@
+body{
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav{
+    box-sizing:100%;
+    background-color: rgb(212, 163, 118);
+    padding:  10px 10px 10px 10px;
+    height: 80px;
+    margin-top: 0px ;
+    box-shadow: 8px 5px 10px  rgba(128, 128, 128, 0.801);
+}
+h1{
+    font-size: 50px;
+    color: brown;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+p{
+    font-size: medium;
+    font-weight: 500;
+    color: black;
+}
+#allquotes{
+    text-align: justify;
+}
+button>span{
+    font-size: 15px;
+    text-transform: uppercase;
+
+}
+button{
+    background-color: brown;
+    color: white;
+    width: 150px;
+    border: none;
+    padding:20px;
+    border-radius: 3px;
+    margin-top: 50px;
+    box-shadow: 2px 4px 20px 5px rgb(174, 126, 126);
+
+}
+button:hover{
+    background-color: white;
+    color: brown;
+}
